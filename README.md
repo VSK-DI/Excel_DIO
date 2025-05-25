@@ -22,7 +22,10 @@ FIIs são uma forma de investimento coletivo no setor imobiliário. Os investido
 ** A planilha proposta permite ao usuário:
 
 Simular diferentes estratégias de investimento
+
 Compreender o impacto de mudanças na taxa de rendimento ou aporte mensal
+
 Visualizar, de forma clara e didática, a evolução do investimento
+
 Tomar decisões baseadas em dados e projeções personalizadas
 
